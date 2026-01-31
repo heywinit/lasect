@@ -71,7 +71,7 @@ CLI installation is permitted on the target servers or developer machines.
 - [ ] FR22: Use pgBackRest for backup orchestration.
 - [ ] FR23: Create backup policies and schedules.
 - [ ] FR24: List past backups.
-- [ ] FR25: Restore - [ ] FRom a selected backup.
+- [ ] FR25: Restore from a selected backup.
 - [ ] FR26: Support PITR (point-in-time recovery).
 - [ ] FR27: Support target storage backends (local, S3, Azure, GCS).
 
@@ -131,4 +131,3 @@ Secure storage of credentials (encrypted at rest).
 API endpoints must validate authentication tokens.
 RBAC lifecycle for all resources.
 Optional integration with external identity providers (SSO/LDAP).
-
